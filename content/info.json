@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Gratuito a partir de R$ 500,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Pague no cartão"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Compre pelo WZAP (11) 9 9113-4025"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Compra 100% segura"
   }
 }
