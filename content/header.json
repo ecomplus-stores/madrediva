@@ -1,15 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "",
-    "background": "#874344",
-    "color": "#ffffff"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [
       "/anel/?Anel",
@@ -24,8 +13,20 @@
     "full_width": true
   },
   "centralized_logo": false,
-  "desktop_megamenu": true,
-  "search_input": true,
+  "marketing_stripe": {
+    "text": "Aproveite nossos descontos de até 50%!",
+    "link": "",
+    "background": "#874344",
+    "color": "#ffffff"
+  },
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "popup": "/img/uploads/87dc3543-66c6-404a-af3a-11b497aad376.jpeg36578f52-264a-4cfd-928a-31b70dd3d808.jpeg",
+  "search_input": true,
+  "desktop_megamenu": true,
+  "full_width_submenu": false,
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": true
+  }
 }
