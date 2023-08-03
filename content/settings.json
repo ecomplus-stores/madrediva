@@ -1,7 +1,7 @@
 {
   "domain": "madrediva.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#d6a7a7",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
