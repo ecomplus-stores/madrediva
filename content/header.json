@@ -1,29 +1,30 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "link": "",
+    "background": "#874344",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/anel/?Anel",
+      "/brincos/?Brincos ",
+      "/colar/?Colar ",
+      "/colecoes/?Coleções ",
+      "/outlet/?Outlet ",
+      "/conjunto/?Conjunto ",
+      "/pulseiras/?Pulseiras "
+    ],
+    "random": 8,
+    "full_width": true
   },
   "centralized_logo": false,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
