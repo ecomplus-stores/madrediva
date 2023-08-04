@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header {\nbackground: #faf0f0 !important;\n} \n.footer {\nbackground: #874344 !important;\n}\n.ecom-credits {\n  background: #874344 !important;\n}",
   "html_head": "",
   "html_body": ""
 }
