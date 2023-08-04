@@ -5,22 +5,44 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/brincos-1-.jpeg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/aneis.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/image-8f.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/image-9f.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4d1de9b6-b5ae-4251-a88e-7f4569f9a238.jpeg96fb0c3f-b129-46b0-a9f9-7d1ac1a8acb8.png"
         }
       ]
     },
@@ -37,11 +59,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
