@@ -43,6 +43,14 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/tamanho-de-colares-1.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
