@@ -1,6 +1,6 @@
 {
   "meta_title": "",
-  "meta_description": "",
+  "meta_description": " ",
   "sections": [
     {
       "type": "responsive-banner",
@@ -41,14 +41,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/tamanho-de-colares-1.jpg"
-        }
-      ]
     },
     {
       "type": "dynamic-showcase",
