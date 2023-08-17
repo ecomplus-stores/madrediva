@@ -3,10 +3,6 @@
   "meta_description": " ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-3-.jpeg"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
