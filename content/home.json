@@ -41,9 +41,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "sort": "sales",
+      "limit": 6,
+      "page": "",
+      "sort": "news",
       "collection_id": "64b884045e606903706b5b92:categories:Brincos :/brincos/",
       "headless": false
     }
