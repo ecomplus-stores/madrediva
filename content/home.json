@@ -39,9 +39,13 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "sort": "sales",
+      "collection_id": "64b884045e606903706b5b92:categories:Brincos :/brincos/",
+      "headless": true
     }
   ]
 }
