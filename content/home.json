@@ -42,11 +42,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
     }
   ]
 }
