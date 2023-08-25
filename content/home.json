@@ -70,10 +70,6 @@
       "page": 1,
       "collection_id": "64b8840f5e606903706b5bb0:categories:Colar personalizado :/colar-personalizado/",
       "title": "Personalizados"
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"embedsocial-hashtag\" data-ref=\"ce1a8cd4f7d51ac21855c914266a976b4097bee8\"> <a class=\"feed-powered-by-es feed-powered-by-es-feed-new\" href=\"https://embedsocial.com/social-media-aggregator/\" target=\"_blank\" title=\"Widget by EmbedSocial\"> Widget by EmbedSocial<span>→</span> </a> </div> <script> (function(d, s, id) { var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = \"https://embedsocial.com/cdn/ht.js\"; d.getElementsByTagName(\"head\")[0].appendChild(js); }(document, \"script\", \"EmbedSocialHashtagScript\")); </script><div class=\"embedsocial-hashtag\" data-ref=\"ce1a8cd4f7d51ac21855c914266a976b4097bee8\"> <a class=\"feed-powered-by-es feed-powered-by-es-feed-new\" href=\"https://embedsocial.com/social-media-aggregator/\" target=\"_blank\" title=\"Widget by EmbedSocial\"> Widget by EmbedSocial<span>→</span> </a> </div> <script> (function(d, s, id) { var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = \"https://embedsocial.com/cdn/ht.js\"; d.getElementsByTagName(\"head\")[0].appendChild(js); }(document, \"script\", \"EmbedSocialHashtagScript\")); </script>"
     }
   ]
 }
