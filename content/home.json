@@ -62,6 +62,14 @@
       "page": 1,
       "collection_id": "64b884195e606903706b5bce:categories:Conjunto :/conjunto/",
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64b8840f5e606903706b5bb0:categories:Colar personalizado :/colar-personalizado/",
+      "title": "Personalizados"
     }
   ]
 }
