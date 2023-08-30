@@ -43,7 +43,7 @@
       "shuffle": false,
       "limit": "",
       "page": "",
-      "sort": "news",
+      "sort": "slug",
       "collection_id": "64b884045e606903706b5b92:categories:Brincos :/brincos/",
       "headless": false
     },
