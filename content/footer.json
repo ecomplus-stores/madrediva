@@ -29,7 +29,8 @@
     },
     {
       "src": "/img/uploads/download-1-.png",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=madrediva.com"
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=madrediva.com",
+      "alt": "https://transparencyreport.google.com/safe-browsing/search?url=madrediva.com"
     }
   ],
   "payment_methods": {
