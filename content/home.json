@@ -41,7 +41,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/image-8f.jpeg",
-      "mobile_img": "/img/uploads/image-8f.jpeg"
+      "mobile_img": "/img/uploads/image-8f.jpeg",
+      "link": "https://www.madrediva.com/pulseiras/"
     },
     {
       "type": "collection-shelf",
