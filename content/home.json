@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/brincos-1-.jpeg",
-          "link": "https://www.madrediva.com/brincos/"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/aneis.jpeg",
           "link": "https://www.madrediva.com/anel/"
         },
@@ -24,12 +18,6 @@
           "end": "",
           "img": "/img/uploads/image-8f.jpeg",
           "link": "https://www.madrediva.com/pulseiras/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/image-9f.jpeg",
-          "link": "https://www.madrediva.com/colar/"
         },
         {
           "start": "",
@@ -54,15 +42,6 @@
       "img": "/img/uploads/brincos-1-.jpeg",
       "mobile_img": "/img/uploads/brincos-1-.jpeg",
       "link": "https://www.madrediva.com/brinco-ver-todos/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "sort": "news",
-      "collection_id": "64b884045e606903706b5b92:categories:Brincos :/brincos/",
-      "headless": false
     },
     {
       "type": "collection-shelf",
