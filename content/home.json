@@ -35,7 +35,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/aneis.jpeg",
-      "mobile_img": "/img/uploads/aneis.jpeg"
+      "mobile_img": "/img/uploads/aneis.jpeg",
+      "link": "https://www.madrediva.com/anel/"
     },
     {
       "type": "responsive-banner",
