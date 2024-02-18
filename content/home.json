@@ -44,6 +44,11 @@
       "link": "https://www.madrediva.com/brinco-ver-todos/"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/aneis.jpeg",
+      "mobile_img": "/img/uploads/aneis.jpeg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -66,8 +71,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/aneis.jpeg",
-      "mobile_img": "/img/uploads/aneis.jpeg"
+      "img": "/img/uploads/image-8f.jpeg",
+      "mobile_img": "/img/uploads/image-8f.jpeg"
     }
   ]
 }
