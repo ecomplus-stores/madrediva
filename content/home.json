@@ -44,6 +44,12 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/image-9f.jpeg",
+      "link": "https://www.madrediva.com/colar-ver-todos/",
+      "mobile_img": "/img/uploads/image-9f.jpeg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
