@@ -22,6 +22,12 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/4d1de9b6-b5ae-4251-a88e-7f4569f9a238.jpeg96fb0c3f-b129-46b0-a9f9-7d1ac1a8acb8.png",
+      "link": "https://www.madrediva.com/outlet/",
+      "mobile_img": "/img/uploads/4d1de9b6-b5ae-4251-a88e-7f4569f9a238.jpeg96fb0c3f-b129-46b0-a9f9-7d1ac1a8acb8.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/image-9f.jpeg",
       "link": "https://www.madrediva.com/colar-ver-todos/",
       "mobile_img": "/img/uploads/image-9f.jpeg"
@@ -43,12 +49,6 @@
       "img": "/img/uploads/image-8f.jpeg",
       "mobile_img": "/img/uploads/image-8f.jpeg",
       "link": "https://www.madrediva.com/pulseiras/"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/4d1de9b6-b5ae-4251-a88e-7f4569f9a238.jpeg96fb0c3f-b129-46b0-a9f9-7d1ac1a8acb8.png",
-      "link": "https://www.madrediva.com/outlet/",
-      "mobile_img": "/img/uploads/4d1de9b6-b5ae-4251-a88e-7f4569f9a238.jpeg96fb0c3f-b129-46b0-a9f9-7d1ac1a8acb8.png"
     },
     {
       "type": "collection-shelf",
