@@ -3,20 +3,6 @@
   "meta_description": " outlet queima de estoque ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/subcabec-alho-1.jpeg",
-          "mobile_img": "/img/uploads/subcabec-alho-1.jpeg",
-          "link": "https://www.madrediva.com/outlet/"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
