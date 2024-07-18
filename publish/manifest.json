@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.51a3c927ac5bb821eaaac1f257157f42.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.27cb0d9b920d5e8ddaaf80bf37cc4479.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d3ff8db29458a04b3ac640de8b94089a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.622d228ce8e3aeef604334345c3f2c70.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.66dc34eca04554d7ecb25756c600f2b9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Madre Diva semijoias",
+  "short_name": "Madre Diva",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Comércio On line de semi joias de luxo.\nAtravés de um sistema rápido e seguro\nreceba suas semi joias no conforto de seu\nlar com todo cuidado e embalagens\npersonalizadas. Para isto, basta selecionar\nas peças que deseja e efetuar seu pedido\natravés de nosso site,em caso de dúvida\nentre em contato conosco via email ou\nWhatsApp.",
+  "background_color": "#ffffff",
+  "theme_color": "#d6a7a7"
+}
